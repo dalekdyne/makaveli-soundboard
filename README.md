@@ -1,16 +1,7 @@
 # Makaveli Soundboard
 
-<p align="center">
-<img align="center" src="https://user-images.githubusercontent.com/5732536/76313150-52c95c80-62cc-11ea-9cdc-4d272229aa5b.jpg" width="300" alt="screenshot">
-<img align="center" src="https://user-images.githubusercontent.com/5732536/76313154-552bb680-62cc-11ea-9e41-f2e7499514d2.jpg" width="300" alt="screenshot during search">
-</p>
+A simple soundboard app with sounds from the one and only "Daskalos Makaveli" the best tipster in the balkans.
 
-A simple soundboard app with sounds from the one and only "Daskalos Makaveli" the best tipster in the balkans
+## Legal Notes
 
-## Run integration tests:
-
-Run an emulator, then:
-
-```bash
-flutter drive --driver=test_driver/integration_test.dart --target=integration_test/app_test.dart
-```
+This app has been developed using content that is in the public domain. All sounds, images and other content has been collected through content that at the time of development was searchable through common search engines. The name "Daskalos Makaveli" is not a trademark and represents an imaginary person. To withhold from legal action the application has not been packaged and/or published. Hereby, only the source code and media files are available in this repository.
